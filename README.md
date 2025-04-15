@@ -1,9 +1,8 @@
-# This project was created in the early stages of my programming learning journey. As such, there may be many mistakes, inefficiencies, and areas for improvement. Please feel free to explore and suggest improvements!
-
-
 # TasPostcodeFinder
 
 This is an early-stage Java project developed at the University of Tasmania. It was created as part of Assignment 1, which involved building a postcode lookup tool for Tasmanian suburbs.
+
+This project was created in the early stages of my programming learning journey. As such, there may be many mistakes, inefficiencies, and areas for improvement. Please feel free to explore and suggest improvements!
 
 ## 📌 Project Overview
 
