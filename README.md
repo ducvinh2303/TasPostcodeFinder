@@ -1,5 +1,5 @@
-**#This project was created in the early stages of my programming learning journey. As such, there may be many mistakes, inefficiencies, and areas for improvement. 
-Please feel free to explore and suggest improvements!**
+# This project was created in the early stages of my programming learning journey. As such, there may be many mistakes, inefficiencies, and areas for improvement. Please feel free to explore and suggest improvements!
+
 
 # TasPostcodeFinder
 
@@ -18,4 +18,4 @@ The postcode data is stored in a large array, with each postcode paired with one
 
 - `AssigOne223.java` — The driver class that starts the application.
 - `PostCodesInterface.java` — The interface defining the expected functionality.
-- `PostCodes.java` — The main implementation handling configuration and data display.
+- `PostCodes.java` — The main implementation handles configuration and data display.
