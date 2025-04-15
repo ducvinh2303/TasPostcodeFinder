@@ -1,5 +1,5 @@
-#This project was created in the early stages of my programming learning journey. As such, there may be many mistakes, inefficiencies, and areas for improvement. 
-Please feel free to explore and suggest improvements!
+**#This project was created in the early stages of my programming learning journey. As such, there may be many mistakes, inefficiencies, and areas for improvement. 
+Please feel free to explore and suggest improvements!**
 
 # TasPostcodeFinder
 
